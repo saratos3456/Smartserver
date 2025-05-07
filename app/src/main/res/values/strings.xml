@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SmartSaver</string>
+    <string name="txt1">Continue</string>
+    <string name="txt2">Ingrese su email para iniciar secion en esta app</string>
+    <string name="txt3">Gastos</string>
+    <string name="gastos1">Comida</string>
+    <string name="gastos2">Salud</string>
+    <string name="gastos3">Transporte</string>
+    <string name="gastos4">Educacion</string>
+    <string name="gastos5">Servicios</string>
+    <string name="gastos6">Otros</string>
+    <string name="txt4">Total Saldo</string>
+    <string name="saldo1">Dinero Gastado</string>
+    <string name="saldo2">Tus gastos</string>
+
+</resources>
